@@ -10,3 +10,8 @@ h2 {
   font-style: arial;
   color: 80DBD9;
 }
+div{
+  color:pink;
+    background-color:blue;
+  border:12px red dashed;
+}
