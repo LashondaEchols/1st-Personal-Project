@@ -19,6 +19,14 @@ h1 {
 
   .Statement{
     border:5px dashed;
-    color:purple;
+    color:yellow;
   }
+.Attributes{
+  border:5px solid;
+  color:orange;
   
+}
+.years{
+  border:5px double;
+  color:white;
+}
